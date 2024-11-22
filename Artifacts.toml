@@ -28,6 +28,15 @@ os = "windows"
     sha256 = "ebec9da2483a4dc2bffd431c625bcdd089bf723ef22e33cde330b6a0eacb582b"
     url = "https://github.com/DarrylGamroth/AlpaoSDK_jll.jl/releases/download/AlpaoSDK-v4.1.12+0/AlpaoSDK.v4.1.12.i686-w64-mingw32-cxx03.tar.gz"
 [[AlpaoSDK]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a5971bb0f199fc7437344c5df95a088e92e1bef4"
+os = "windows"
+
+    [[AlpaoSDK.download]]
+    sha256 = "ebec9da2483a4dc2bffd431c625bcdd089bf723ef22e33cde330b6a0eacb582b"
+    url = "https://github.com/DarrylGamroth/AlpaoSDK_jll.jl/releases/download/AlpaoSDK-v4.1.12+0/AlpaoSDK.v4.1.12.i686-w64-mingw32-cxx11.tar.gz"
+[[AlpaoSDK]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
 git-tree-sha1 = "7b4e99e8979951df3554f65616c462f8cf689cf0"
@@ -46,3 +55,12 @@ os = "windows"
     [[AlpaoSDK.download]]
     sha256 = "37301acb5cad343f53c71c5dcabe46f7de91ddb8a141aa34008e9217c17d6b34"
     url = "https://github.com/DarrylGamroth/AlpaoSDK_jll.jl/releases/download/AlpaoSDK-v4.1.12+0/AlpaoSDK.v4.1.12.x86_64-w64-mingw32-cxx03.tar.gz"
+[[AlpaoSDK]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "37ba35537dc64b9691a4208a15e2ba67022be1dd"
+os = "windows"
+
+    [[AlpaoSDK.download]]
+    sha256 = "37301acb5cad343f53c71c5dcabe46f7de91ddb8a141aa34008e9217c17d6b34"
+    url = "https://github.com/DarrylGamroth/AlpaoSDK_jll.jl/releases/download/AlpaoSDK-v4.1.12+0/AlpaoSDK.v4.1.12.x86_64-w64-mingw32-cxx11.tar.gz"

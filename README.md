@@ -19,8 +19,10 @@ The tarballs for `AlpaoSDK_jll.jl` have been built from these sources:
 * `Linux aarch64 {cxxstring_abi=cxx11, libc=glibc}` (`aarch64-linux-gnu-cxx11`)
 * `Linux i686 {cxxstring_abi=cxx03, libc=glibc}` (`i686-linux-gnu-cxx03`)
 * `Windows i686 {cxxstring_abi=cxx03}` (`i686-w64-mingw32-cxx03`)
+* `Windows i686 {cxxstring_abi=cxx11}` (`i686-w64-mingw32-cxx11`)
 * `Linux x86_64 {cxxstring_abi=cxx03, libc=glibc}` (`x86_64-linux-gnu-cxx03`)
 * `Windows x86_64 {cxxstring_abi=cxx03}` (`x86_64-w64-mingw32-cxx03`)
+* `Windows x86_64 {cxxstring_abi=cxx11}` (`x86_64-w64-mingw32-cxx11`)
 
 ## Dependencies
 
