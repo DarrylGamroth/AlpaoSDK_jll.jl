@@ -1,0 +1,96 @@
+[[AlpaoSDK]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d20af90413ae13d010b0b71e2a13cd350e892a2d"
+libc = "glibc"
+os = "linux"
+
+    [[AlpaoSDK.download]]
+    sha256 = "5333839a14da2883044dc53c4df23036011f894ddaa8f67904f0daf1b225cada"
+    url = "https://github.com/DarrylGamroth/AlpaoSDK_jll.jl/releases/download/AlpaoSDK-v4.1.12+0/AlpaoSDK.v4.1.12.aarch64-linux-gnu-cxx03.tar.gz"
+[[AlpaoSDK]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d20af90413ae13d010b0b71e2a13cd350e892a2d"
+libc = "glibc"
+os = "linux"
+
+    [[AlpaoSDK.download]]
+    sha256 = "5333839a14da2883044dc53c4df23036011f894ddaa8f67904f0daf1b225cada"
+    url = "https://github.com/DarrylGamroth/AlpaoSDK_jll.jl/releases/download/AlpaoSDK-v4.1.12+0/AlpaoSDK.v4.1.12.aarch64-linux-gnu-cxx11.tar.gz"
+[[AlpaoSDK]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5bea136070cae17b750c1e6c283ab61b196f549d"
+libc = "glibc"
+os = "linux"
+
+    [[AlpaoSDK.download]]
+    sha256 = "e134f4307ffb2aaff7b44c230dbf9da43c826f64fc0bf8b6a544bdec5018aa2f"
+    url = "https://github.com/DarrylGamroth/AlpaoSDK_jll.jl/releases/download/AlpaoSDK-v4.1.12+0/AlpaoSDK.v4.1.12.i686-linux-gnu-cxx03.tar.gz"
+[[AlpaoSDK]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5bea136070cae17b750c1e6c283ab61b196f549d"
+libc = "glibc"
+os = "linux"
+
+    [[AlpaoSDK.download]]
+    sha256 = "e134f4307ffb2aaff7b44c230dbf9da43c826f64fc0bf8b6a544bdec5018aa2f"
+    url = "https://github.com/DarrylGamroth/AlpaoSDK_jll.jl/releases/download/AlpaoSDK-v4.1.12+0/AlpaoSDK.v4.1.12.i686-linux-gnu-cxx11.tar.gz"
+[[AlpaoSDK]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a5971bb0f199fc7437344c5df95a088e92e1bef4"
+os = "windows"
+
+    [[AlpaoSDK.download]]
+    sha256 = "ebec9da2483a4dc2bffd431c625bcdd089bf723ef22e33cde330b6a0eacb582b"
+    url = "https://github.com/DarrylGamroth/AlpaoSDK_jll.jl/releases/download/AlpaoSDK-v4.1.12+0/AlpaoSDK.v4.1.12.i686-w64-mingw32-cxx03.tar.gz"
+[[AlpaoSDK]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a5971bb0f199fc7437344c5df95a088e92e1bef4"
+os = "windows"
+
+    [[AlpaoSDK.download]]
+    sha256 = "ebec9da2483a4dc2bffd431c625bcdd089bf723ef22e33cde330b6a0eacb582b"
+    url = "https://github.com/DarrylGamroth/AlpaoSDK_jll.jl/releases/download/AlpaoSDK-v4.1.12+0/AlpaoSDK.v4.1.12.i686-w64-mingw32-cxx11.tar.gz"
+[[AlpaoSDK]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7b4e99e8979951df3554f65616c462f8cf689cf0"
+libc = "glibc"
+os = "linux"
+
+    [[AlpaoSDK.download]]
+    sha256 = "39036bbf6bd54c11c81b51482fdf3bca3de8e5394a7976277d50b93cd6f59bd6"
+    url = "https://github.com/DarrylGamroth/AlpaoSDK_jll.jl/releases/download/AlpaoSDK-v4.1.12+0/AlpaoSDK.v4.1.12.x86_64-linux-gnu-cxx03.tar.gz"
+[[AlpaoSDK]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7b4e99e8979951df3554f65616c462f8cf689cf0"
+libc = "glibc"
+os = "linux"
+
+    [[AlpaoSDK.download]]
+    sha256 = "39036bbf6bd54c11c81b51482fdf3bca3de8e5394a7976277d50b93cd6f59bd6"
+    url = "https://github.com/DarrylGamroth/AlpaoSDK_jll.jl/releases/download/AlpaoSDK-v4.1.12+0/AlpaoSDK.v4.1.12.x86_64-linux-gnu-cxx11.tar.gz"
+[[AlpaoSDK]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "37ba35537dc64b9691a4208a15e2ba67022be1dd"
+os = "windows"
+
+    [[AlpaoSDK.download]]
+    sha256 = "37301acb5cad343f53c71c5dcabe46f7de91ddb8a141aa34008e9217c17d6b34"
+    url = "https://github.com/DarrylGamroth/AlpaoSDK_jll.jl/releases/download/AlpaoSDK-v4.1.12+0/AlpaoSDK.v4.1.12.x86_64-w64-mingw32-cxx03.tar.gz"
+[[AlpaoSDK]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "37ba35537dc64b9691a4208a15e2ba67022be1dd"
+os = "windows"
+
+    [[AlpaoSDK.download]]
+    sha256 = "37301acb5cad343f53c71c5dcabe46f7de91ddb8a141aa34008e9217c17d6b34"
+    url = "https://github.com/DarrylGamroth/AlpaoSDK_jll.jl/releases/download/AlpaoSDK-v4.1.12+0/AlpaoSDK.v4.1.12.x86_64-w64-mingw32-cxx11.tar.gz"
